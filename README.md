@@ -21,7 +21,8 @@ The dataset includes:
 - Beverage Brand  
 - Price per Unit  
 - Units Sold  
-- Revenue  
+- Revenue
+- Month name
 
 ---
 
